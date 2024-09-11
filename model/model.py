@@ -5,7 +5,7 @@ from sklearn.datasets import make_classification
 from sklearn.metrics import precision_score, recall_score, f1_score , accuracy_score , confusion_matrix
 from sklearn.ensemble import RandomForestClassifier
  
- import joblib
+import joblib
 
 # Function to return career
 
