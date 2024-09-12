@@ -8,7 +8,7 @@ You can get data [HERE](https://github.com/loobiish/Student-Career-Prediction)
 ## **Libraries**
 Use pip to install the required Python packages listed in requirements.txt.
 ```python
-pip install -r requirements.txt
+pip install -r requirements.txt '''
 
 ## ** Our Model**
 
