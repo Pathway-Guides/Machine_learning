@@ -11,7 +11,7 @@ Use pip to install the required Python packages listed in requirements.txt.
 pip install -r requirements.txt 
 ```
 ## **Our Model**
-we have followed some step to creat model
+we have followed some step to creat model:  
 **Step one: data preprocessig**
 Data didn't need much processes:
 * Checking any missing data.
@@ -19,7 +19,7 @@ Data didn't need much processes:
 * Making feature extruction and feature engineering: megering the similar features in one feature.
 
 **Step two: Build the model**
-We have used the machine learning classification (Random Forst) because this model made the best accuracy and recall.
+We have used the machine learning classification (Random Forst) because this model made the best accuracy and recall.  
 
 **Evaluation**
 We have used to this:
