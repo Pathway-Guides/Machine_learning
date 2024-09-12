@@ -10,5 +10,5 @@ Use pip to install the required Python packages listed in requirements.txt.
 ```python
 pip install -r requirements.txt 
 ```
-## ** Our Model**
+## **Our Model**
 
