@@ -39,4 +39,37 @@ Here are a few potential improvements and future plans for the project:
   
 ## **Sources**
 The dataset and inspiration for this project are taken from [this GitHub repository](https://github.com/loobiish/Student-Career-Prediction).  
+  
+# **Step-by-Step Guide to Run the Flask Application Locally**  
+  
+## **1- Install Python:**  
+* Ensure you have Python installed on your system. You can download it from the [official Python website](https://www.python.org/downloads/).  
+  
+## **2- Install the Required Libraries:**  
+* install all the dependencies by running:
+```python
+pip install -r requirements.txt 
+```  
+  
+## **3- Run model.py**
+```python
+python model.py
+```  
+## **4- Save Your Model:**  
+* Ensure the career_prediction_model.joblib file (your trained model) is saved in the same directory as the app.py file.
+  
+## **5- Run the Application:**  
+* Navigate to the folder where app.py is located and run the Flask application using:
+```python
+  python app.py
+```
+  
+## **6- Access the Application:** 
+* After running the command, Flask will start a local web server. Open your web browser and go to:
+```
+http://127.0.0.1:5000/
+```
+* You'll see the form where you can enter your preferences (drawing, sport, coding, etc.) and submit the form to receive a career recommendation.
 
+## **7- Shutting Down:**
+* To stop the application, go back to your terminal and press **Ctrl + C.**
