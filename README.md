@@ -12,16 +12,16 @@ pip install -r requirements.txt
 ```
 ## **Our Model**
 we have followed some step to creat model:  
-**Step one: data preprocessig**
+**Step one: data preprocessig**  
 Data didn't need much processes:
 * Checking any missing data.
 * Checking any duplicated data and delete them.
 * Making feature extruction and feature engineering: megering the similar features in one feature.
 
-**Step two: Build the model**
+**Step two: Build the model**  
 We have used the machine learning classification (Random Forst) because this model made the best accuracy and recall.  
 
-**Evaluation**
+**Evaluation**  
 We have used to this:
 * Accuracy: 0.8947368421052632
 * Precision: 0.85
