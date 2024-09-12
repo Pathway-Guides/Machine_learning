@@ -34,7 +34,7 @@ These metrics indicate that the model performs well in recommending careers base
 Here are a few potential improvements and future plans for the project:
 
 * **Enhance Model Features:** Collect more student-related data to include additional features like extracurricular activities and internships.
-* **Explore More Models:** Experiment with other classification algorithms like XGBoost or SVM to potentially improve accuracy.
+* **Explore More Models:** Experiment with other classification algorithms like SVM to potentially improve accuracy.
 * **User Feedback:** Incorporate a feedback system where users can provide input on the recommendations, helping the model improve over time.
   
 ## **Sources**
