@@ -3,3 +3,6 @@ pandas
 scikit-learn
 joblib
 xgboost
+flask
+streamlit
+pickle
