@@ -65,23 +65,26 @@ def predict():
         'Psycology': 0, 
         'History': 0, 
         'Science': science, 
-        'Bussiness Education': 0 , 
         'Chemistry': 0,
         'Mathematics': 0 , 
         'Biology': 0, 
-        'Makeup': 0, 'Designing': 0, 'Content writing': 0,
+        'Designing': 0, 
+        'Content writing': 0,
         'Crafting': 0, 
         'Literature': 0, 
-        'Reading': 0, 'Cartooning': 0, 
+        'Reading': 0, 
+        'Cartooning': 0, 
         'Debating': 0,
         'Asrtology': 0, 
-        'French': 0, 
         'English': 0, 
         'Solving Puzzles': 0, 
-        'Yoga': 0,
         'Pharmisist': 0, 
-        'Knitting': 0, 'Director': 0, 'Journalism': 0, 'Bussiness': 0,
-        'Listening Music': 0, 'Languages': 0
+        'Knitting': 0, 
+        'Director': 0, 
+        'Journalism': 0, 
+        'Bussiness': 0,
+        'Listening Music': 0, 
+        'Languages': 0
     }
 
         # Convert the input data into a DataFrame
