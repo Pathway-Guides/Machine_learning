@@ -24,10 +24,10 @@ We tested multiple machine learning models and selected Random Forest for its pe
 ## **Evaluation Metrics**  
 We evaluated the model using several metrics to ensure its performance. Here are the results:
 
-* Accuracy: 89.47%
-* Precision: 85%
-* Recall: 87.5%
-* F1 Score: 85.71%
+* Accuracy: 92.11%
+* Precision: 93.04%
+* Recall: 95.65%
+* F1 Score: 93.79%
 These metrics indicate that the model performs well in recommending careers based on the input data.
 
 ## **Future Work**
